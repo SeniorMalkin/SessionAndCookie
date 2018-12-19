@@ -1,0 +1,4 @@
+login:password
+admin:root
+student:111
+user:228

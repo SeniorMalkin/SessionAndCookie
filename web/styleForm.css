@@ -1,0 +1,34 @@
+
+.my_form ul {
+    width:750px;
+    list-style-type:none;
+    list-style-position:outside;
+    border:none;
+    margin:0px;
+    padding:0px;
+}
+.my_form li{
+    padding:22px;
+    border-bottom:1px solid #9d58ee;
+    position:relative;
+}
+.my_form label{
+    font: bold 20px "Harlow Solid Italic";
+    width:150px;
+    margin-top: 3px;
+    display:inline-block;
+    float:left;
+    padding:3px;
+}
+.my_form input {
+    height:20px;
+    width:220px;
+    padding:5px 8px;
+}
+.my_form #btn,#btn1 {
+    height:30px;
+    width:80px;
+    padding:5px;
+}
+
+
